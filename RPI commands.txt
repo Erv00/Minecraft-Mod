@@ -1,0 +1,4 @@
+airbase-ng -e Alma -w AlmaKedli52 wlan1
+brctl addbr lol
+brctl addif lol eth0
+brctl addif lol wlan1
