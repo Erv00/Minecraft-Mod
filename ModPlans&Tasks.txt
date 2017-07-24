@@ -6,5 +6,5 @@
 -Creative Tabs
 -Emerald eszközök & páncél
 -Gránát
-#-Dobható Lándzsa
-#-Kés
+-Dobható Lándzsa
+-Kés

@@ -40,3 +40,23 @@
 	FE+TN+FE
 	FE+FE+FE
 ===================================
+-Dárda Hegy:
+[CB=Cobble Stone]
+
+	XX+CB+XX
+	CB+CB+CB
+	XX+XX+XX
+===================================
+-Dobható Lándzsa:
+[ST=Stick,DH=Dárda Hegy]
+
+	XX+DH+XX
+	XX+ST+XX
+	XX+ST+XX
+===================================
+-Kés
+[ST=Stick,CB=Cobblestone]
+	XX+XX+XX
+	XX+CB+XX
+	XX+ST+XX
+===================================
