@@ -1,0 +1,42 @@
+-Fagyott Rohadt Hús:
+[S=Snow,RF=RottenFlesh,SB=Snow Block,IB=Ice Block]
+
+(1X)(Shapeless):
+	S+RF
+-----------------------------------
+(8X)(Shaped):
+	RF+RF+RF
+	RF+SB+RF
+	RF+RF+RF
+-----------------------------------
+(8X)(Shaped):
+	RF+RF+RF
+	RF+IB+RF
+	RF+RF+RF
+===================================
+-Jerky:
+[ME=Bármely nem mérgezõ hús,SA=Só]
+
+(1X)(Shaped):
+	
+	SA+SA+SA
+	SA+ME+SA
+	SA+SA+SA
+===================================
+-Kõ&Fa&Emerald páncél:
+[ST = Stone,PL= Bármely plank,EM=Emerald]
+
+!!!ÚGY MINT A TÖBBI PÁNCÉLT!!!
+===================================
+-Flint&Emerald Eszközök:
+[FL=Flint,ST=Stick,EM=Emerald]
+
+!!!ÚGY MINT A TÖBBI ESZKÖZT!!!
+===================================
+-Gránát:
+[FE=Vas,TN=TNT,RS=Redstone]
+
+	FE+RS+FE
+	FE+TN+FE
+	FE+FE+FE
+===================================
